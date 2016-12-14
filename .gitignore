@@ -1,2 +1,5 @@
 # No compiled Python files.
 *.pyc
+
+# No virtualenv.
+env/
